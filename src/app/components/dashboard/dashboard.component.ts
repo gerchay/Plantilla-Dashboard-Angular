@@ -11,6 +11,8 @@ export class DashboardComponent implements OnInit {
   menu:any[] = [
     { titulo: 'Home', icono: 'dashboard', link: 'home'},
     { titulo: 'Listado', icono: 'backup_table', link: 'about'},
+    { titulo: 'Login', icono: 'login', link: 'login'},
+    { titulo: 'Registrar', icono: 'app_registration', link: 'register'},
   ];
 
   constructor() { }
