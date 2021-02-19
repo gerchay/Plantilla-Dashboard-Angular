@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "prueba-fabed": {
+      "hosting": {
+        "plantilla-admin": [
+          "prueba-fabed"
+        ]
+      }
+    }
+  }
+}
