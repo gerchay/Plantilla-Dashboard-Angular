@@ -1,4 +1,4 @@
-# Dashboard con Angular
+# Dashboard 
 
 ### Herramientas 🚀
 - [Angular CLI](https://cli.angular.io/).
